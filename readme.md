@@ -3,7 +3,7 @@ Brayden Klemens 2019
 
 ## About
 
-This project is a c program written for an Operating Systems course. The program emulates a simplified version of a Dispatcher for an OS. The program accepts events from a text file to be simulated, and the program changes states of proccess' in the system accordingly. There are 5 different proccess types and all of them can be serviced out of order.
+The program emulates a simplified version of a Dispatcher for an OS. The program accepts events from a text file to be simulated, and the program changes states of proccess' in the system accordingly. There are 5 different proccess types and all of them can be serviced out of order.
 
 Events are in the format ```<time> <event> <proccessID> ```
 Event types include:
