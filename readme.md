@@ -1,4 +1,5 @@
 # CPU Scheduler
+Brayden Klemens 2019
 
 ## About
 
